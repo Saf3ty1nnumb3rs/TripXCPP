@@ -4,7 +4,7 @@
 void PrintIntroduction(int Difficulty)
 {
   // Prints welcome message to terminal
-  if (Difficulty ==1)
+  if (Difficulty == 1)
   {
       std::cout << "\n\nAfter a brutal struggle, Jigsaw lies dead at your feet; you come to a door with a screen and a keypad...\n";
   }
